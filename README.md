@@ -24,3 +24,7 @@ Run the demo.
 ```bash
 $ npm start
 ```
+
+Preview demo
+
+![](https://github.com/wonyun/componentDivison/public/demo.png)

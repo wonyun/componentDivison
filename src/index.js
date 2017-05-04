@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 import './index.css';
-
+window.Perf = require('react-addons-perf');
 var components = [];
 for (var i=0; i< 5000;i++){
   components.push({id: i, text: 'Todo Item #' + i});
