@@ -2,7 +2,7 @@ import React from 'react';
 
 export default class TodoItem extends React.PureComponent{
   componentDidUpdate(){
-    console.log('did update')
+    // console.log('did update')
   }
   render(){
     return (
